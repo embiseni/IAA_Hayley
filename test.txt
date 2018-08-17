@@ -1,2 +1,4 @@
 print("HELLO!!")
 print("HOLA")
+print("Whale Hello There")
+Print("##BlueCrew")
